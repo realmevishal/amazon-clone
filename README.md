@@ -1,1 +1,1 @@
-# amazon-ui-clone
+# amazon-clone
